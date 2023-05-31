@@ -16,6 +16,7 @@ A Easy Way To Manage Your Network
 ## Setup
 
 ```bash
+  pip3 install -r requirements.txt
   sudo python3 main.py
 ```
     
